@@ -77,8 +77,8 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 ![github-stats2](https://github-readme-streak-stats.herokuapp.com?user=guptag0808&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) -->
 
 <p align="right">
-<a href="https://github.com/anurag1109?tab=repositories"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anurag1109&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Im-vishalanand github-readme-stats"/></a>
-<a href="https://github.com/anurag1109?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=anurag1109&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="anurag1109 github-readme-streak-stats"/></a>
+<a href="https://github.com/ani213?tab=repositories"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ani213&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Im-vishalanand github-readme-stats"/></a>
+<a href="https://github.com/ani213?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ani213&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="anurag1109 github-readme-streak-stats"/></a>
 </p>
 
 
