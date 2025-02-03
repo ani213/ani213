@@ -30,7 +30,7 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 - 💬 Ask me about *React, Redux, JavaScript, NodeJS, ExpressJS, MongoDB,*
 - 👯 I am also looking for some *Open Source Oppurtunities*
 - 👨🏻‍🎓 Visit my *[portfolio](https://ani213.github.io/personal-web.github.io/)*
-- 🪢 Checkout *[My Resume](https://drive.google.com/file/d/1oHbk6ZqFDuzJypHbLVD-7hJ8KFFLIt2b/view)*
+- 🪢 Checkout *[My Resume](https://drive.google.com/file/d/1Ojwi3mmk4Zf8ty3To4ke8wkiF2S2DvJ2/view?usp=sharing/view)*
 - 📫 Reach me on Gmail *sin.anurag12@gmail.com*
 
 
