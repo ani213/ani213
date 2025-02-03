@@ -69,7 +69,7 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 ## 📊 GitHub Stats:
 <p align="center">
-<a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anurag1109&theme=gotham&hide_border=true&layout=compact&langs_count=5"   width="35%" alt="anurag1109" align="left"></a>
+<a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ani213&theme=gotham&hide_border=true&layout=compact&langs_count=5"   width="35%" alt="anurag1109" align="left"></a>
 </p>
 
 <!-- ![top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guptag0808&theme=gotham&hide_border=true&layout=compact&langs_count=6)
