@@ -10,7 +10,7 @@
 
 ---
 <h4 align="left">A passionate web developer skilled in
-MERN stack, developing websites using React, JavaScript, Golang, Node.js, Express.js, and MongoDB, eagerly seeking opportunities that will bring
+Full stack, developing websites using React, JavaScript, Golang, Node.js, Express.js, and MongoDB, eagerly seeking opportunities that will bring
 challenges and opportunities to learn and grow, allowing me to leverage and hone my skill.</h4>
 
 <h3 align="left">🤝Connect with me on:</h3>
